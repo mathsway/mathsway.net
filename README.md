@@ -14,13 +14,12 @@ All tools are available online without requiring an account or signup.
 
 Mathsway includes a growing collection of free online calculators covering different areas of mathematics, including:
 
-* [Equation Calculator](https://mathsway.net/en/equation-calculator/)
+* [Equation Calculator](https://mathsway.net/en/equation-solver/)
 * [Derivative Calculator](https://mathsway.net/en/derivative-calculator/)
 * [Integral Calculator](https://mathsway.net/en/integral-calculator/)
 * [Multiple Integral Calculator](https://mathsway.net/en/multiple-integral-calculator/)
 * [Limit Calculator](https://mathsway.net/en/limit-calculator/)
-* [Multivariable Calculators](https://mathsway.net/en/multivariable-calculus/)
-
+  
 You can explore the complete collection of [free online math calculators](https://mathsway.net/en/calculators/).
 
 ## Educational Resources
