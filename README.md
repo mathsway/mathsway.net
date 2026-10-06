@@ -20,7 +20,7 @@ Mathsway includes a growing collection of free online calculators covering diffe
 * [Multiple Integral Calculator](https://mathsway.net/en/multiple-integral-calculator/)
 * [Limit Calculator](https://mathsway.net/en/limit-calculator/)
   
-You can explore the complete collection of [free online math calculators](https://mathsway.net/en/calculators/).
+You can explore the complete collection of [free online math calculators](https://mathsway.net/en/).
 
 ## Educational Resources
 
