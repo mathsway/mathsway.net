@@ -2,11 +2,11 @@
 
 Mathsway is a free online collection of mathematical calculators and educational tools designed for students, teachers, and anyone working with mathematics.
 
-Visit the official website: https://mathsway.net/
+Visit the [official Mathsway website](https://mathsway.net/) to explore the available mathematical tools.
 
 ## About Mathsway
 
-Mathsway provides easy-to-use online math tools that help users solve mathematical problems, check calculations, and better understand mathematical concepts.
+[Mathsway](https://mathsway.net/) provides easy-to-use online math tools that help users solve mathematical problems, check calculations, and better understand mathematical concepts.
 
 All tools are available online without requiring an account or signup.
 
@@ -14,19 +14,18 @@ All tools are available online without requiring an account or signup.
 
 Mathsway includes a growing collection of free online calculators covering different areas of mathematics, including:
 
-- Equation Calculator
-- Derivative Calculator
-- Integral Calculator
-- Multiple Integral Calculator
-- Limit Calculator
-- Multivariable Calculators
-- Other mathematical tools
+* [Equation Calculator](https://mathsway.net/en/equation-calculator/)
+* [Derivative Calculator](https://mathsway.net/en/derivative-calculator/)
+* [Integral Calculator](https://mathsway.net/en/integral-calculator/)
+* [Multiple Integral Calculator](https://mathsway.net/en/multiple-integral-calculator/)
+* [Limit Calculator](https://mathsway.net/en/limit-calculator/)
+* [Multivariable Calculators](https://mathsway.net/en/multivariable-calculus/)
 
-You can explore all available calculators directly on the [Mathsway website](https://mathsway.net/).
+You can explore the complete collection of [free online math calculators](https://mathsway.net/en/calculators/).
 
 ## Educational Resources
 
-In addition to calculators, Mathsway provides educational content explaining mathematical concepts, formulas, methods, and practical applications.
+In addition to calculators, [Mathsway](https://mathsway.net/) provides educational content explaining mathematical concepts, formulas, methods, and practical applications.
 
 The goal is to make mathematics easier to understand and provide useful resources for students and teachers.
 
@@ -34,12 +33,8 @@ The goal is to make mathematics easier to understand and provide useful resource
 
 Mathsway is designed to be accessible to everyone. The online calculators can be used directly from a web browser without registration.
 
-For more information and to access the complete collection of mathematical tools, visit https://mathsway.net/.
+Students and teachers can use the [free mathematics tools](https://mathsway.net/) to perform calculations and explore different mathematical concepts.
 
 ## Website
 
-Official website: https://mathsway.net/
-
-## Keywords
-
-math calculator, online calculator, free math calculator, equation calculator, derivative calculator, integral calculator, limit calculator, multivariable calculator, mathematics tools, educational calculator
+Learn more about [Mathsway's free mathematical calculators](https://mathsway.net/) and educational resources.
